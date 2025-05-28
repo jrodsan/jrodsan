@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Jesús
 
-![Coding GIF]([[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://th.bing.com/th/id/OIP.WrZ4wPFmGeXa3ims_v49wAHaFj?w=498&h=374&rs=1&pid=ImgDetMain](https://itunes.apple.com/app/apple-store/id917932200?pt=39040802&ct=Media1GIFV2&mt=8)))
+![Coding GIF](https://itunes.apple.com/app/apple-store/id917932200?pt=39040802&ct=Media1GIFV2&mt=8)
 
 🎓 Estudiante de **Administración de Sistemas Informáticos en Red (ASIR)**  
 🔧 Apasionado por la automatización, seguridad y administración de sistemas Linux  

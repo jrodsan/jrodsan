@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Jesús
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzkyZ2oxbDFsN2JscTZwdnBudm9zemJtMHV2d3psM2g5eWh6NnlvbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/92q3uPI2qBNMC0OCMH/giphy.gif">
+  <img src="https://media1.tenor.com/m/JV3UZ1tc5FYAAAAC/frieren-beyond-journey's-end-sousou-no-frieren.gif">
 </div>
 
 🎓 Estudiante de **Administración de Sistemas Informáticos en Red (ASIR)**  

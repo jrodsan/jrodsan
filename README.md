@@ -18,7 +18,7 @@ Soy una persona curiosa, proactiva y enfocada en aprender tecnologías que mejor
 - ⚙️ Scripting con Bash y Python
 - 🌐 Redes: configuración de VLANs, NAT, routing, cortafuegos
 - 🗄️ Bases de datos: instalación, gestión y consultas en MySQL
-- ☁️ Virtualización (Proxmox, VMware) y despliegue en la nube
+- ☁️ Virtualización (Virtualbox, VMware) y despliegue en la nube
 - 📦 Contenedores (Docker) y herramientas de infraestructura como código (Terraform)
 - 🔐 Seguridad de sistemas y gestión de accesos
 - 📊 Monitorización de servicios y alertas automatizadas

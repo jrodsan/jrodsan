@@ -2,10 +2,8 @@
 <div align="center">
   <img src="https://media1.tenor.com/m/JV3UZ1tc5FYAAAAC/frieren-beyond-journey's-end-sousou-no-frieren.gif">
 </div>
-
-🎓 Estudiante de **Administración de Sistemas Informáticos en Red (ASIR)**  
+ 
 🔧 Apasionado por la automatización, seguridad y administración de sistemas Linux  
-🚀 Buscando mi primera oportunidad profesional en el mundo IT  
 📍 Basado en Granada
 
 ---
